@@ -1,9 +1,7 @@
 # ss-v2ray-docker supports arm64
-## Deprecated: please use https://github.com/dmirubtsov/ss-xray-docker
 
 Shadowsocks-libev server with v2ray-plugin running in Docker.
 
-[![Docker Build Status](https://img.shields.io/docker/cloud/build/mazy/ss-v2ray.svg)](https://hub.docker.com/r/mazy/ss-v2ray)
 
 ---
 
